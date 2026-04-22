@@ -116,4 +116,4 @@ elif st.session_state.lead_stage == 3:
 
         st.session_state.lead_stage = 0
         st.rerun()
-        st.toast("Lead sent to backend ✅")
+        
