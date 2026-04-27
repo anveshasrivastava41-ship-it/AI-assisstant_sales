@@ -1,4 +1,4 @@
-# 🤖 AI Sales Assistant (ServiceHive Internship Assignment)
+# 🤖 AI Sales Assistant 
 
 ## 📌 Overview
 
